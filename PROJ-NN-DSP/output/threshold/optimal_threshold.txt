@@ -1,0 +1,4 @@
+Optimal threshold: 0.9991
+Precision: 1.0000
+Recall: 1.0000
+F1 Score: 1.0000

@@ -1,0 +1,13 @@
+# Python virtual environment
+venv/
+
+# Modele mari (dacă vrei să le ții local, dar nu pe GitHub)
+models/*.h5
+*.h5
+
+# Fișiere .so (biblioteci compilate)
+*.so
+*.so.*
+libtensorflow*.so*
+libllvmlite*.so*
+libclang*.so*

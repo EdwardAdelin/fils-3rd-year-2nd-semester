@@ -1,0 +1,5 @@
+Model: baby_cry_cnn_simple_20250525_213113.h5
+Test loss: 1.7716
+Test accuracy: 0.5000
+Test precision: 0.5000
+Test recall: 1.0000
